@@ -1,0 +1,11 @@
+{
+    "total_active_cases": 51,
+    "unknown_delays": 8,
+    "counts_by_carrier": {
+        "metrodispatch": 15,
+        "swiftparcel": 13,
+        "routepost": 12,
+        "parcelbridge": 11
+    },
+    "active_cases_delayed_120_minutes_or_more": 22
+}
