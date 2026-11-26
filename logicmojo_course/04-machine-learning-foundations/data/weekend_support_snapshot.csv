@@ -1,0 +1,15 @@
+ticket_id,category,status,elapsed_wait_minutes
+301,delivery,open,0
+302,returns,open,12
+303,payments,open,18
+304,delivery,open,29
+305,returns,open,30
+306,account,open,36
+307,delivery,open,48
+308,payments,open,65
+309,returns,open,
+310,payments,open,
+311,delivery,closed,72
+312,returns,closed,30
+313,payments,closed,8
+314,account,closed,24
